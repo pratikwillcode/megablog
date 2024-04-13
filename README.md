@@ -1,4 +1,4 @@
-Welcome to [Your Blog Website Name]!
+Welcome to Blog Bash!
 
 Thank you for visiting our blog website. Here's a guide to help you navigate and make the most of your experience here.
 
